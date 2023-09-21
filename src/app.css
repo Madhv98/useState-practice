@@ -1,0 +1,32 @@
+*{margin: 0;
+  padding: 0; 
+}
+.card{
+  background-color: rgb(232, 205, 205);
+  width: 500px;
+  border-radius: 2%;
+}
+
+.iphoneImage{
+  width: 400px;
+  display:block;
+}
+.btn {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.model button {
+  background-color: rgb(20, 0, 243);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  border-radius:5%;
+  cursor: pointer;
+}
+
+
